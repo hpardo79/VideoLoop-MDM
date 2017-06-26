@@ -9,3 +9,4 @@ Put the main folder into...
 Use the "Login Manager MDM" to select the theme you just added!
 
 Enjoy!
+![VideoLoop](screen.png)
